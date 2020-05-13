@@ -1,4 +1,4 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.14_2005131911_global.apk", "changes":"
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.1415_2005132123_global.apk", "changes":"
 Версия 3.14
 - Добавлен фикс адресов изображений с пробелами
 - Исправлен баг с неправильным запросом разрешений
@@ -7,6 +7,7 @@
 - Исправлен баг с невозможностью открытия очень больших изображений
 - Ускорено получение данных от сервера LiveJournal
 - Уменьшено количество обращений к серверу LiveJournal
+- Прочие исправления
 ",
 "versionAlert":"",
 "mainAlertCode":2}
