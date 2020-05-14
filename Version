@@ -1,5 +1,6 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.1415_2005132123_global.apk", "changes":"
-Версия 3.1415
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.15_2005150038_global.apk", "changes":"
+Версия 3.15
+- Исправлен баг с неотображением ТОПа в версии 3.1415
 - Добавлен фикс адресов изображений с пробелами
 - Исправлен баг с неправильным запросом разрешений
 - Исправлены голосования на версиях Android < 8.0
