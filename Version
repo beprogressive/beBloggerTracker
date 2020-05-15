@@ -1,5 +1,6 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.15_2005150038_global.apk", "changes":"
-Версия 3.15
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.16_2005152131_global.apk", "changes":"
+Версия 3.16
+- Исправлена ошибка, приводящая к невозможности открытия статьи без авторизации
 - Исправлен баг с неотображением ТОПа в версии 3.1415
 - Добавлен фикс адресов изображений с пробелами
 - Исправлен баг с неправильным запросом разрешений
