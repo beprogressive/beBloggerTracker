@@ -1,8 +1,7 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.17_2005251353_global.apk", "changes":"
-Версия 3.17
-- Исправлено открытие изображений с сайта https://ic.pics.livejournal.com/
-- Добавлено отображение прогресса установки обновления
-- Исправлено отображение заголовков в статьях
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.18_2006102001_global.apk", "changes":"
+Версия 3.18
+- Исправлена ошибка, приводящая к падению приложения при плохом соединении с сетью
+- Производительность приложения повышена
 ",
 "versionAlert":"",
 "mainAlertCode":2}
