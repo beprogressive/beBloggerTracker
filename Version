@@ -1,6 +1,8 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.19_2006151549_global.apk", "changes":"
-Версия 3.19
-- Исправлена ошибка, приводящая к падению приложения при обращении к Базе Данных
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.20_2006280120_global.apk", "changes":"
+Версия 3.20
+- Исправлена ошибка авторизации после 24х часов без перезапуска приложения
+- В создание и редактирование статей добавлен функционал тегов
+- Прочие исправления и улучшения
 ",
 "versionAlert":"",
-"mainAlertCode":3}
+"mainAlertCode":0}
