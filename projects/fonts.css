@@ -1,23 +1,23 @@
 @font-face {
 font-family: 'ProximaNova';
-src: url('https://github.com/beprogressive/beBloggerTracker/blob/master/projects/proxima_nova_light.woff') format('woff');
+src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/proxima_nova_light.woff') format('woff');
 font-weight: 300;
 font-style: light;
 }@font-face {
 font-family: 'ProximaNova';
-src: url('https://github.com/beprogressive/beBloggerTracker/blob/master/projects/proxima_nova_regular.woff') format('woff');
+src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/proxima_nova_regular.woff') format('woff');
 font-weight: 400,500;
 font-style: normal;
 }
 @font-face {
 font-family: 'ProximaNova';
-src: url('https://github.com/beprogressive/beBloggerTracker/blob/master/projects/proxima_nova_semibold.woff') format('woff');
+src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/proxima_nova_semibold.woff') format('woff');
 font-weight: 600;
 font-style: semibold;
 }
 @font-face {
 font-family: 'ProximaNova';
-src: url('https://github.com/beprogressive/beBloggerTracker/blob/master/projects/proxima_nova_bold.woff') format('woff');
+src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/proxima_nova_bold.woff') format('woff');
 font-weight: 700;
 font-style: bold;
 }
