@@ -21,3 +21,10 @@ src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/
 font-weight: 700;
 font-style: bold;
 }
+
+@font-face {
+font-family: 'CormorantGaramond';
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap');
+font-weight: 600;
+font-style: semibold;
+}
