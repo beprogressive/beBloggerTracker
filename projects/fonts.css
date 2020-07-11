@@ -24,7 +24,7 @@ font-style: bold;
 @font-face {
 font-family: 'CormorantGaramondbold';
 src: url('https://github.com/beprogressive/beBloggerTracker/raw/master/projects/cormorantgaramond-light-webfont.woff') format('woff');
-font-weight: 300,400;
+font-weight: 300;
 font-style: light;
 }
 @font-face {
