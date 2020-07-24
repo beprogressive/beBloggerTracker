@@ -1,7 +1,8 @@
-{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.20_2006280204_global.apk", "changes":"
-Версия 3.20
-- Исправлена ошибка авторизации после 24х часов без перезапуска приложения
-- В создание и редактирование статей добавлен функционал тегов
+{"path":"https://github.com/beprogressive/beBloggerTracker/raw/master/apk/beBlogger_3.21_2007241614_global.apk", "changes":"
+Версия 3.21
+- Исправлена ошибка, приводящая к падению, при открытии списка Избранное
+- В название report-файла добавлено расширение
+- Убрано лишнее уведомление об отсутствии аккаунта Google на устройстве при авторизации
 - Прочие исправления и улучшения
 ",
 "versionAlert":"",
